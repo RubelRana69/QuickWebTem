@@ -1,3 +1,3 @@
 # QuickWebTem
 
-link:
+link:https://rubelrana69.github.io/QuickWebTem/
